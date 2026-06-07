@@ -1,5 +1,23 @@
 # Largest Companies in the United States by Revenue
 
+## Project Workflow
+
+```text
+Wikipedia
+    ↓
+Python Requests
+    ↓
+Pandas Cleaning
+    ↓
+CSV
+    ↓
+PostgreSQL
+    ↓
+Metabase
+    ↓
+Dashboard & Insights
+```
+
 ## Project Overview
 
 This project demonstrates an end-to-end data analytics workflow, starting from web scraping, data cleaning, database storage, and dashboard visualization.
@@ -64,13 +82,14 @@ The dashboard contains:
 4. Employee count does not always correlate directly with revenue generation.
 5. Several technology companies generate high revenue with relatively smaller workforces.
 
-## INSIGHT (INDONESIA)
-1. Walmart dan Amazon menempati posisi teratas berdasarkan revenue, menunjukkan bahwa perusahaan dengan model bisnis retail berskala besar masih mendominiasi perolehan pendapatan dibanding banyak sektor lainnya.
-2. Industri Retail dan Healthcare berkontribusi paling besar terhadap total revenuew perusahaan-perusahaan terbesar di Amerika Serikat. Temuan ini menunjukkan bahwa kebutuhan konsumsi masyarakat dan layanan kesehatan tetap menjadi penggerak utama aktivitas ekonomi.
-3. Healthcare memiliki jumlah perusahaan terbanyak dalam daftar perusahaan terbesar berdasarkan revenue. Hal ini menunjukkan bahwa industri kesehatan tidak hanya didominasi oleh beberapa pemain besar, tetapi juga memiliki banyak perusahaan dengan skala bisnis yang signifikan.
-4. Hubungan antara jumlah karyawan dan revenue tidak sepenuhnya linear. Beberapa perusahaan mampu menghasilkan revenue yang sangat tinggi dengan jumlah karyawan yang relatif lebih sedikit, yang mengindikasikan tingkat produktivitas atau efisiensi operasional yang lebih tinggi.
-5. Sebagian besar perusahaan berada pada kelompok revenue dan jumlah karyawan yang relatif moderat, namun terdapat beberapa outlier seperti Walmart dan Amazon yang beroperasi dalam skala yang jauh lebih besar. Perusahaan-perusahaan ini memiliki kapasitas operasional yang sulit ditandingi oleh perusahaan lain dalam daftar.
-6. Perusahaan teknologi mampu menghasilkan revenue yang sangat besar tanpa memelurkan jumalh karyawan sebanyak perusahaan retail atau distribusi. Hal ini menunjukkan tingginya produktivitas dan skalabilitas model bisnis berbasis tekonologi dibanding sektor yang lebih bergantung pada tenaga kerja.
+## INSIGHT
+1. Walmart and Amazon rank at the top in terms of revenue, indicating that companies with large-scale retail business models still dominate revenue generation compared to many other sectores.
+2. The retail and healthcare industries contribute the most to the total revenue of the largest companies in the United States. This finding shows that consumer demand and healthcare services remain the primary drivers of economic acitivity.
+3. The Healtcare sector has the highest number of companies on the list of the largest companies by revenue. This indicates that the healtcare industry is not only dominated by a few major players but also includes many companies with significant business scale.
+4. The relationship between the number of employees and revenue is not entirely linier. Some companies are able to generate very high revenue with a relatively smaller number of employees, indicating higher levels of productivity or operational efficiency.
+5. Most companies fall into the category of relatively moderate revenue and headcount, but there are a few outliers, such as Walmart and Amazon, that operate on a much larger slace. These companies possess operational capabilities that are difficult for other companies on the list to match.
+6. Technology companies are able to generate massive revenue without requiring as many employees as retail or distributin companies. This demonstrates the hight productivity and scalability of technology-based business models compared to sectors that are moe labor-intensive.
+
 
 ## Author
 
